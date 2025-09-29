@@ -174,3 +174,6 @@ CREATE TABLE semester_calendar (
     registration_deadline TIMESTAMP,
     is_current BOOLEAN
 );
+
+--seminar
+CREATE TABLE 
